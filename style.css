@@ -1,0 +1,73 @@
+.page{
+margin: 150px 150px;
+margin-bottom: 250px;
+padding-top: 60px;
+padding-left: 60px;
+width: 1200px;
+height: 700px;
+background-image:url(fond.jpg);
+opacity: 0,75;
+position: relative;
+}
+
+
+#titre{
+width: 300px;
+height: 200px;
+margin-left: 20px;
+color:#80deea;
+border-bottom: solid 2px #80deea;
+position: static;
+font-size: 18px;
+background-color: #02022A;
+}
+
+nav{
+color: #4dd0e1;
+line-height: 63px;
+font-size: 16px;
+text-align: justify;
+float: left;
+width:300px;
+margin-top: 45px;
+margin-left: 20px;
+background-color: #02022A;
+border-bottom: solid 2px #80deea;
+}
+
+.intro{
+width: 300px;
+height: 380px;
+color:black;
+font-family: Verdana, Charcoal, sans-serif;
+font-size: 20px;
+float: left;
+margin-left: 100px;
+margin-top: -110px;
+line-height: 40px;
+color: white; text-shadow:  #b1d8f6  0.6em 0.6em 0.8em;
+background-color: #02022A;
+text-align: center;
+
+}
+
+.photo{
+float: right;
+margin-right: 50px;
+margin-top: -230px;
+}
+
+.devise{
+color: white;
+background-color:02022A;
+position: absolute;
+margin-left: 1120px;
+margin-top: -500px;
+width: 232px;
+height: 190px;
+line-height: 40px;
+font-size: 18px;
+color: white; text-shadow:  #b1d8f6  0.6em 0.6em 0.8em;
+background-color: #02022A;
+text-align: center;
+}
